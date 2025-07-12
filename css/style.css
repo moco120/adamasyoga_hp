@@ -1042,6 +1042,11 @@ img {
       flex-direction: column; /* 横並びを解除 */
       width: 90%;
   }
+  .profile2{
+      flex-direction: column; /* 横並びを解除 */
+      flex-direction: column-reverse; /* 画像とテキストの順番を逆にする */
+      width: 90%;
+  }
   main h1{
     font-size: 22px;
     color: #696969;
